@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\bin\Debug\a11_studentsolver.exe.config
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\bin\Debug\a11_studentsolver.exe
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\bin\Debug\a11_studentsolver.pdb
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.csprojAssemblyReference.cache
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.Form1.resources
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.Properties.Resources.resources
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.csproj.GenerateResource.cache
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.exe
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.pdb
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.Form2.resources
+C:\Users\User\Desktop\vs_projects_ar\a11_studentsolver\obj\Debug\a11_studentsolver.Form3.resources
